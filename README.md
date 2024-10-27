@@ -29,7 +29,6 @@ The system uses a variety of tools and frameworks:
 - **Backend:** Python, Flask, TensorFlow  
 - **Frontend:** HTML, CSS, JavaScript (Flask Templates)  
 - **Machine Learning Framework:** TensorFlow  
-- **Database:** SQL (for logging and user management)  
 - **Deployment:** Docker for containerization  
 - **Version Control:** Git  
 - **Testing Tools:** Selenium, Postman, PyTest  
